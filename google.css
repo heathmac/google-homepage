@@ -1,9 +1,28 @@
-#logo img{
-		width:300px
-		align: center;
-		position: relative;
+#logo{
+		width: 416px;		
+	margin-right: auto;
+	margin-left:  auto;
 }
 
-#logo{
-	width:300px;
+#logo form input{
+	width: 416px;
+	height: 25px;
+}
+
+#logo form{
+	margin-top: -125px;
+	margin-right: auto;
+	margin-left:  auto;
+	width: 416px;
+}
+
+li{
+	display: inline;
+	float: right;
+	padding: 0 5px 0 5px;
+	color: #4c4c4c;
+}
+
+li:nth-child(1){
+	margin-top:-6px;
 }
