@@ -112,6 +112,29 @@ li a:hover{
 	padding-right: 0px;
 }
 
+#buttons form{
+	margin-right: auto;
+	margin-left:  auto;
+	width: 415px;
+	padding-top: 10px
+
+}
+
+#buttons form input{
+	width: 110px;
+}
+
+#buttons form input:nth-child(1){
+	width: 90px;
+}
+
+div#buttons{
+	position:relative;
+	text-align: center;
+}
+
+
+
 
 
 
